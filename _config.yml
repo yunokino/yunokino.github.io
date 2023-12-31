@@ -22,7 +22,7 @@ title: yunokino's Blogs!
 description: >- # this means to ignore newlines until "baseurl:"
   something about learning and thinking
 url: "https://yunokino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jekyll
+github_username:  yunokino
 
 # Build settings
 theme: minima
